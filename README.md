@@ -19,11 +19,3 @@ Chatbot simples e profissional de atendimento ao cliente para a peixaria Z&Z, de
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/Darlontoebe/zz-peixaria-chatbot.git
-cd zz-peixaria-chatbot
-
-# 2. Instale as dependências
-pip install -r requirements.txt
-
-# 3. Rode o chatbot
-panel serve app.py --show
